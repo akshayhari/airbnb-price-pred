@@ -1,0 +1,4 @@
+service: airbnb-price-pred
+runtime: custom
+env: flex
+
